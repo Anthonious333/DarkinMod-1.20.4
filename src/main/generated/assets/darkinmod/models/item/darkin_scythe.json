@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "darkinmod:item/darkin_scythe"
+  }
+}
